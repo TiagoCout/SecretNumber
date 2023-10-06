@@ -4,7 +4,7 @@ title.innerHTML = 'Guess a number game!'; */
 /* let paragraph = document.querySelector('p');
 paragraph.innerHTML = 'Choose a number between 1 and 10.'; */
 let listOfNumbersDrawn = [];
-let limitNumber = 10;
+let limitNumber = 100;
 let secretNumber = generateRandomNumber();
 let attempts = 1;
 
@@ -24,7 +24,7 @@ translateText('guess', 'Guess');
 
 function displayStartMessage() {
     displaytTextOnScreen('h1', 'Guess a number game!');
-    displaytTextOnScreen('p', 'Choose a number between 1 and 10.');
+    displaytTextOnScreen('p', 'Choose a number between 1 and 100.');
 }
 
 displayStartMessage();
