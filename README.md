@@ -11,7 +11,6 @@ Welcome to the Secret Number Game – a thrilling web-based guessing game design
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## About ℹ️
