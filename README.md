@@ -51,9 +51,6 @@ Contributions are welcome! If you want to contribute to the project, follow thes
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-## License 📄
-This project is licensed under the MIT License.
-
 ## Acknowledgements 🙌
 Special thanks to the contributors and everyone who supported the development of the Secret Number Game.
 
