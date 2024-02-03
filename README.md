@@ -55,3 +55,5 @@ Special thanks to the contributors and everyone who supported the development of
 
 Feel free to explore, contribute, and enjoy the thrill of guessing the secret number! 🎉
 
+
+---
